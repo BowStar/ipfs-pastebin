@@ -9,7 +9,7 @@ IPBin is a Pastebin-like private service which let's you upload AES-encrypted fi
 `upload dir/to/file/`: Upload the file to IPFS. After you entered this command, the programm will output a key and a hash. The hash is the hash of the encrypted file in the IPFS network and the key is the key to decrypt your file.
 
 `open HASH`: Open an encrypted file. Use the hash and the key to open the file. The programm will output the content of your file in the terminal.
-## How do I support this project?
+## How can I support this project?
 This project is open source. So feel free to use it, download it and improve it. I would be very greatful if you want to support this project financially:
 
 BTC: `1FxX9YtMdvdWFiigRFHZ3CqdD3GqU7C14i`
