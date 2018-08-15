@@ -3,7 +3,7 @@ IPBin is a pastebin like private service which let's you upload AES-encrypted fi
 ## How do I use IPBin?
 1. Download IPBin.jar [here](https://github.com/BowStar/ipfs-privatebin/blob/master/jars/IPBin.jar?raw=true).
 2. Run your IPFS node. You can find the tutorial [here](https://ipfs.io/docs/install/)
-3. Run it with `java -jar IPBin.jar`
+3. Run the .jar with `java -jar IPBin.jar`
 4. Now, IPBin.jar runs! There are two commands:
 
 `upload [dir/to/file/]`: Upload the file to IPFS. After you entered this command, the programm will output a key and a hash. The hash is the hash of the encrypted file in the IPFS network and the key is the key to decrypt your file.
