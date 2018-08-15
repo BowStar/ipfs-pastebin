@@ -6,9 +6,9 @@ IPBin is a Pastebin-like private service which let's you upload AES-encrypted fi
 3. Run the .jar with `java -jar IPBin.jar`
 4. Now, IPBin.jar runs! There are two commands:
 
-`upload [dir/to/file/]`: Upload the file to IPFS. After you entered this command, the programm will output a key and a hash. The hash is the hash of the encrypted file in the IPFS network and the key is the key to decrypt your file.
+`upload dir/to/file/`: Upload the file to IPFS. After you entered this command, the programm will output a key and a hash. The hash is the hash of the encrypted file in the IPFS network and the key is the key to decrypt your file.
 
-`open [hash]`: Open an encrypted file. Use the hash and the key to open the file. The programm will output the content of your file in the terminal.
+`open HASH`: Open an encrypted file. Use the hash and the key to open the file. The programm will output the content of your file in the terminal.
 ## How do I support this project?
 This project is open source. So feel free to use it, download it and improve it. I would be very greatful if you want to support this project financially:
 
