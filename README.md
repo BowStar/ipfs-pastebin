@@ -1,5 +1,5 @@
 # ipfs-privatebin
-IPBin is a pastebin like private service which let's you upload AES-encrypted files to the IPFS network. It is free, anonymous and open source
+IPBin is a Pastebin-like private service which let's you upload AES-encrypted files to the IPFS network. It is free, anonymous and open source
 ## How do I use IPBin?
 1. Download IPBin.jar [here](https://github.com/BowStar/ipfs-privatebin/blob/master/jars/IPBin.jar?raw=true).
 2. Run your IPFS node. You can find the tutorial [here](https://ipfs.io/docs/install/).
